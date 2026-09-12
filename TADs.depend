@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1789220864 source:c:\users\letic\onedrive\documents\lpii\tads\fila.c
+	<stdio.h>
+	"fila.h"
+
+1789220838 c:\users\letic\onedrive\documents\lpii\tads\fila.h
+
+1789220878 source:c:\users\letic\onedrive\documents\lpii\tads\lista.c
+	<stdio.h>
+	"lista.h"
+
+1789220844 c:\users\letic\onedrive\documents\lpii\tads\lista.h
+
+1789220873 source:c:\users\letic\onedrive\documents\lpii\tads\pilha.c
+	<stdio.h>
+	"pilha.h"
+
+1789220848 c:\users\letic\onedrive\documents\lpii\tads\pilha.h
+
+1789221456 source:c:\users\letic\onedrive\documents\lpii\tads\main.c
+	<stdio.h>
+	"TADs.h"
+
+1789220853 c:\users\letic\onedrive\documents\lpii\tads\tads.h
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
